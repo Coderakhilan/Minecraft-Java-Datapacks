@@ -1,0 +1,1 @@
+execute as @a[scores={phone=1..}] run function pdp:checkforphone
